@@ -1,0 +1,20 @@
+#Falta eliminar las imagen si el usuario Elimina planta o accesorio de igual forma para usuario revisar el errro
+# Hay que cambiar algunas a español
+#Ojo si un usario ingrese un producto de plantas y si lo elimina tambien se elimina planta ver eso seguiente avanza
+#validar algunas cosas en el servidor
+
+#hay que poner los enlaces redes sociales
+#Validad los correo si ya existen de igual para todas las tablas
+
+
+
+#INSERTAR DATOS ES MATRIZ ME EQUIVOQUE EN ESE PUNTO 
+
+
+#Realizar la pagina donde se muestra los productos ya
+# Hay que validar en el clientes en el algunos formulario YA
+#Falta generar reportes yA
+
+INICIAR SESION CON
+correo = admin@udb.edu.sv
+contraseña = 123
